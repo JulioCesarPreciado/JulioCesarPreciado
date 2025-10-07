@@ -1,4 +1,7 @@
-<div class="tenor-gif-embed" data-postid="4950580186367049827" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/best-friend-gif-4950580186367049827">Best Friend GIF</a>from <a href="https://tenor.com/search/best+friend-gifs">Best Friend GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
+</div>
+
 
 # Hi, I'm Julio 🦦
 
