@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/es/view/best-friend-gif-4950580186367049827" width="200" />
+  <img src="best-friend.gif" width="200" />
 </div>
 
 
